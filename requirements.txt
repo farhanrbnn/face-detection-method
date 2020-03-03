@@ -1,0 +1,3 @@
+dlib
+opencv-contrib-python==3.4.5.20
+face-recognition
